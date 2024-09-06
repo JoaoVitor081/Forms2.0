@@ -41,7 +41,8 @@ label{
 }
 .senha{
     position: relative;
-    top: 15px;
+    top:2px;
+    bottom: 10px;
 }
 .Mostrar{
     position: relative;
